@@ -1,7 +1,0 @@
-{
-  "name": "Ruslan Transformation",
-  "description": "Personal transformation expert for people over 40. Smoking cessation, physical fitness, and mountain trekking based on personal experience.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
